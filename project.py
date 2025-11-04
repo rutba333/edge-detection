@@ -74,5 +74,4 @@ def interactive_edge_detection(image_path):
         print("Invalid choice. Please enter a number between 1 and 6.")
 
     #provide the path to an image for the activity
-interactive_edge_detection(r'C:\Users\ASUS\Desktop\edge detection\image.jpeg')
-
+interactive_edge_detection(r'C:\Users\ASUS\Desktop\edge detection\pic2.jpeg')
